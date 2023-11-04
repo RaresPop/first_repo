@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>First Html page</title>
+</head>
+<body>
+	<h1>Nume: Pop</h1>
+	<h3>Prenume: Rares</h3>
+	
+	<img src="C:\Users\rares\OneDrive\Imagini\clasa a 12 a\clasa a 12 a poze\banchet\MMF2247.jpg" width=250>
+
+	<table border = "1">
+	
+		<tr>
+			<th>Disciplina</th>
+			<th>An</th>
+			<th>Link</th>
+		</tr>
+			<td>Informatica aplicata</td>
+			<td>1</td>
+			<td><a href = "https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/06.pdf">Link1 1</a></td>
+		<tr>
+			<td>Analiza Matematica</td>
+			<td>1</td>
+			<td><a href = "https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/01b.pdf">Link2 2</a></td>
+		</tr>
+		<tr>
+			<td>Algebra</td>
+			<td>1</td>
+			<td><a href = "https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/02b.pdf">Link3 3</a></td>
+		</tr>
+		<tr>
+			<td>Sport</td>
+			<td>1</td>
+			<td><a href = "https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/07.pdf">Link4 4</a></td>
+		</tr>
+		<tr>
+			<td>CCP</td>
+			<td>1</td>
+			<td><a href = "https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/05b.pdf">Link5 5</a></td>
+		</tr>
+	</table>
+<p>Hobby-uri</p>
+<ul>
+	<li>Citit</li>
+	<li>Sala</li>
+	<li>Fotbal</li>
+</ul>
+</body>
+</html>
+
+
+	
+
+
+
+	
+
